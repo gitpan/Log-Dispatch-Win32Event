@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Log/Dispatch/Win32Event.pm
+t/00_simple.t
+
